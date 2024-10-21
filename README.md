@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://jalajpandey.netlify.app/](https://thejalaj.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://thejalaj.netlify.app/](https://thejalaj.netlify.app/)
 
 - 💬 Ask me about **Full Stack Web Development**
 
