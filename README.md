@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Agent to Agent Protocol**
 
 - 👨‍💻 All of my projects are available at [https://thejalaj.netlify.app/](https://thejalaj.netlify.app/)
 
-- 💬 Ask me about **Full Stack Web Development**
+- 💬 Ask me about **Full Stack And Artificial Intelligence**
 
 - 📫 How to reach me **thejalajpandey@gmail.com**
 
